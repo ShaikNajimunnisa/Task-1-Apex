@@ -15,7 +15,7 @@ The page displays a welcome message and confirms that the PHP server is running 
 ## How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/pujithajakkireddy/SamplePHP.git](https://github.com/pujithajakkireddy/SamplePHP.git)
+    git clone [https://github.com/ShaikNajimunnisa/Task-1-Apex.git](https://github.com/ShaikNajimunnisa/Task-1-Apex.git)
     ```
 2.  **Move the project to your web server directory:**
     * Place the `SamplePHP` folder inside the `htdocs` directory of your XAMPP installation (e.g., `C:\xampp\htdocs\SamplePHP`).
@@ -25,4 +25,4 @@ The page displays a welcome message and confirms that the PHP server is running 
     * Navigate to `http://localhost/SamplePHP/` in your web browser.
 
 ## Author
-Pujitha Jakkireddy
+Shaik Najimunnisa
